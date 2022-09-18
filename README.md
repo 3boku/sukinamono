@@ -1,4 +1,4 @@
-# lovelive_wep
+# lovelive_web
 
 ## 진짜 쓸때없지만 만들고 있습니다.. 러브라이브를 위해!
 
