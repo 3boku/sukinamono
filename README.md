@@ -7,4 +7,4 @@
 기숙사를 탈출해 집에가면 다 만들고 호스팅 할생각입니다.
 
 ## 주소
-https://nanonandflash.github.io/lovelive_wep/
+https://nanonandflash.github.io/lovelive_web/
