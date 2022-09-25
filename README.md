@@ -13,4 +13,4 @@
 ## 주소
 https://nanonandflash.github.io/lovelive_web/
 <br/>
-https://lovelivenand.netlify.app/
+https://hyunseoland.netlify.app
