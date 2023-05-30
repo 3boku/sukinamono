@@ -9,8 +9,11 @@
 
 +0917 css로 구글 폰트 불러와서 글꼴추가 했습니다.
 <br/>+0925 메인 페이지 만들었습니다./프로젝트명 변경합니다 lovelive_web->sukinamono
+<br/>+23/05/30 파이어베이스 추가하였습니다
 
 ## 주소
 https://nanonandflash.github.io/lovelive_web/
 <br/>
 https://hyunseoland.netlify.app
+<br/>
+https://sukinamono-a0232.web.app
